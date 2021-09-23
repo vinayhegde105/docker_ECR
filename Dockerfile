@@ -1,5 +1,3 @@
-RUN python3 manage.py makemigrations
-RUN python3 manage.py migrate
 FROM python:3
 ENV PYTHONUNBUFFERED 1
 RUN mkdir /app
