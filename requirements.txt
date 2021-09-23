@@ -1,0 +1,4 @@
+django
+django-froala-editor
+djangorestframework
+Pillow
